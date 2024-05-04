@@ -1,4 +1,6 @@
 import 'dart:async';
+import 'package:riverpod_annotation/riverpod_annotation.dart';
+part 'todonotifier.g.dart';
 
 @riverpod
 class TodoNotifier extends _$TodoNotifier {
