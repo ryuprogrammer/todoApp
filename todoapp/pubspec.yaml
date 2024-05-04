@@ -13,11 +13,13 @@ dependencies:
   flutter_riverpod:
   riverpod_annotation:
   supabase_flutter:
+  freezed_annotation:
   cupertino_icons: ^1.0.6
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  freezed:
   build_runner: ^2.1.0
   riverpod_generator:
 
